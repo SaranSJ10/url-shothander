@@ -10,9 +10,7 @@ password:password<br>
 <br>
 <strong>Demo : https://karthee-urlshortsapp.netlify.app/</strong>
 <br>
-<br>
-My WorkFlow : https://coggle.it/diagram/YacO1DOIUp_w4J5u/t/url-shortner
-<br>
+
 <br>
 Site Features : 
 <br>
